@@ -19,5 +19,6 @@ int main()
 		cout << "Default Pengecualian dieksekusi" << endl;
 	}
 
+
 	return 0;
 }
